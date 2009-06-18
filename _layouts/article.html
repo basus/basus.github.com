@@ -3,7 +3,7 @@
 
     <meta content="text/html; charset=ISO-8859-1" http-equiv="content-type" />
     <meta content="Shrutarshi Basu" name="author" />
-    <title {{page.title}}/>
+    <title> {{page.title}} </title>
     <link href="/css/article.css" rel="stylesheet" type="text/css" />
 </head>
 <body>
@@ -18,7 +18,7 @@
   <div id="central">
       <div id="title">
         <h1>{{page.title}}</h1>
-        <p>{{page.date | date_to_string}}</p>
+        <p>{{page.time | date_to_string}}</p>
       </div>
       <div id="content">
         {{content}}
