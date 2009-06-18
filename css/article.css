@@ -1,0 +1,174 @@
+/*Stylesheet for basus*/
+	
+h1 {
+    font-weight: inherit;
+    font-family: New Times Roman,Georgia,Serif;
+    color: #FFFFFF;
+    font-size: 300%;
+    margin: 0;
+    padding-top: 0.1em;
+}
+	
+h2{
+    font-weight: bold;
+    font-family: New Times Roman,Georgia,Serif;
+    font-size: x-large;
+    margin-left: 1em;
+    padding: 0;
+    color: #206594;
+}
+
+h3 {
+    font-weight: bold;
+    font-family: Georgia,serif;
+    font-size: large;
+    font-style: italic;
+}
+
+h4{
+    font-weight: bold;
+    font-size: 110%;
+    font-family: Georgia;
+}
+	
+a.exter {
+    font-weight:bold;
+    text-decoration: none;
+    color: blue; 
+}
+	
+a.exter:hover {
+    text-decoration: underline;
+}
+
+a.exter:visited {
+    color:#206594
+}
+	
+a.inter {
+    font-weight: bold;
+    text-decoration: none;
+    color: black
+}
+	
+a.inter:hover {
+    text-decoration:underline;
+}
+	
+a.inter:visited {
+    color: #555555
+}
+
+a.navlink {
+    color: #1834AC;
+    text-transform: uppercase;
+}
+	
+body { 
+    padding: 0;
+    font-family: sans-serif, verdana, Arial,Helvetica,;
+    font-size: 80%;
+    background: #333333;
+    margin: 0;
+}
+
+div#navbar {
+    background: #206594 url("../pics/navbar.png") repeat-x;
+    padding: 0.4em;
+    color: #206594;
+    font-size: 95%;
+    text-align:center;
+    position: fixed;
+    width: 100%;
+    z-index: 500;
+}
+	
+#main{
+    width: 100%;
+    padding-top: 2.5em;
+}
+
+#leftbar {
+    width:16%;
+    margin-left: 1%;
+    float:left;
+    background: #5BB5F4;
+    padding: 0 0 0 0;
+    position: fixed;
+    text-align: center;
+}
+div.leftblock {
+    text-align: center;
+    padding: 0;
+}
+	
+div.lefthead {
+    background:#206594 url("../pics/header.png") repeat-x;
+    color: white;
+    font-weight: bold;
+    height: 1.7em;
+    padding: .3em 0 0 0;
+}
+
+#leftbar ul{
+    padding: 0;
+    margin: 3% 0 0 10%;
+    list-style-type: none;
+    text-align: left;
+    font-size: 105%;
+}
+
+#leftbar a{
+    color: black;
+    text-decoration: none
+}
+	
+#central {
+    background: white;
+    border: 1px solid #413c41;
+    width: 80%;
+    float: right;
+    margin-left: 1%;
+    margin-right: 1%;
+}
+
+#title {
+    background:#206594 url("../pics/masterheader.png") repeat-x;
+    position: relative;
+    height:95px;
+    color: #ffffff;
+    text-align:center;
+}
+
+#content{
+    padding:1em;
+}
+#content p {
+    margin: 2em;
+    text-indent: 3em;
+}
+
+#content ul {
+    margin: 0 5% 0 5%
+}
+
+#content dl {
+    margin: 0 5% 0 5%
+
+}
+
+#content dd {
+    margin: 0 0 0.5em 1em
+}
+
+#extras{
+    padding: 1em;
+}
+
+#footer { 
+    color: white;
+    text-align: center;
+    background: black;
+    padding: 0.5em;
+    font-family: monospace;
+    font-size: 90%;}
