@@ -151,8 +151,8 @@ div.lefthead {
     padding:1em;
 }
 #content p {
-    margin: 2em;
-    text-indent: 3em;
+    margin: 0;
+    text-indent: 0;
 }
 
 #content ul {
