@@ -1,3 +1,8 @@
+---
+layout: article
+title: Program analysis notes
+description: From papers read during Summer '09
+---
 
 
 + [Using Static Analysis for IDE's for Dynamic Languages](ecls2005-dolby.html)  
