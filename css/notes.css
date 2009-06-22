@@ -2,7 +2,7 @@
 	
 h1 {
     font-weight: bold;
-    font-size: 130%;
+    font-size: 150%;
     font-family: New Times Roman,Georgia,Serif;
     padding-top:0.1em;
     margin:0;
@@ -11,13 +11,13 @@ h1 {
 h2{
     font-weight: bold;
     font-family: New Times Roman,Georgia,Serif;
-    font-size: 100%;
+    font-size: 110%;
     margin-left: 1em;
     padding: 0;
 }
 
 h3 {
-    font-size:90%
+    font-size:90%;
     font-family: Georgia,serif;
     font-style: italic;
 }
@@ -156,7 +156,7 @@ div.lefthead {
 }
 
 #content ul {
-    margin: 0 0 0 5%
+    margin: 0 0 0 0
 }
 
 #content dl {

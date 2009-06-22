@@ -4,6 +4,7 @@ title: Using Static Analysis for IDE's for Dynamic Languages
 author: Dolby, Julian
 publication: Proceedings of the Eclipse Languages Symposium
 ---
+
 # Abstract
 
 +  Modern IDEs such exploit the static type system for languages like Java to provide shortcuts and hints to the programmer
