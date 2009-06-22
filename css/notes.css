@@ -1,27 +1,24 @@
-/*Stylesheet for basus*/
+/*Stylesheet for Personal Wiki notes pages*/
 	
 h1 {
-    font-weight: inherit;
-    font-family: New Times Roman,Georgia,Serif;
-    color: #FFFFFF;
+    font-weight: bold;
     font-size: 120%;
-    margin: 0;
-    padding-top: 0.1em;
+    font-family: New Times Roman,Georgia,Serif;
+    padding-top:0.1em;
+    margin:0;
 }
-	
+
 h2{
     font-weight: bold;
     font-family: New Times Roman,Georgia,Serif;
     font-size: 100%;
     margin-left: 1em;
     padding: 0;
-    color: #206594;
 }
 
 h3 {
     font-weight: bold;
     font-family: Georgia,serif;
-    font-size: large;
     font-style: italic;
 }
 
@@ -139,6 +136,16 @@ div.lefthead {
     color: #ffffff;
     text-align:center;
 }
+
+#title h1 {
+    font-weight: inherit;
+    font-family: New Times Roman,Georgia,Serif;
+    color: #FFFFFF;
+    font-size: 300%;
+    margin: 0;
+    padding-top: 0.1em;
+}
+
 
 #content{
     padding:1em;
