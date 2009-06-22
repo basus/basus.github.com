@@ -1,6 +1,6 @@
 ---
 layout: notes
-title: Context-sensitive points-to analysis: Is it worth it?
+title: "Context-sensitive points-to analysis: Is it worth it?"
 author: Lhotak, Ondrej and Hendren, Laurie
 publication: Compiler Construction, 15th International Conference, volume 3923 of LNCS
 ---
