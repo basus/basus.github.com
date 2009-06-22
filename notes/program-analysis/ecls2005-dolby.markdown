@@ -69,8 +69,8 @@ Analysis for dynamic languages should substitute for static type information use
 
 ## Approximating call targets
 1. Java IDEs make use of two language features
-  1. Lack of first class functions
-  2. Declared type information
+ + Lack of first class functions
+ + Declared type information
 2. Set of possible callee methods are the methods with appropriate names and signatures in the receiver type and subtypes
 3. Dynamic language have first class functions and lack static type declarations
 4. Alias analysis can approximate needed information
@@ -82,15 +82,15 @@ Analysis for dynamic languages should substitute for static type information use
 
 + Core program analysis infrastructure understanding objects, method calls, control flow etc. 
 + Adaptation for each language for two purposes
-  1. Generate analysis internal forms from the source code
-  2. Implement semantic quirks of the language in terms of analysis internal forms
+ 1. Generate analysis internal forms from the source code
+ 2. Implement semantic quirks of the language in terms of analysis internal forms
 
 ## Analysis Adaptation Layer
 
 + Stylized AST for describing that statements supported by analysis IR
 + IR generation from AST has two steps:
-  1. Take data structure from the front end (such as parse tree) and generate AST
-  2. Convert AST to IR using common core for things like AST-to-CFG-to-SSA and language dependent module for details (like field access semantics)
+ 1. Take data structure from the front end (such as parse tree) and generate AST
+ 2. Convert AST to IR using common core for things like AST-to-CFG-to-SSA and language dependent module for details (like field access semantics)
  
 ## Core analysis engine
 SSA-based IR with algorithms for call graph construction, pointer analysis etc. IR structure is extensible and extensions can be integrated with the algorithms.
