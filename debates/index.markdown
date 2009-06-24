@@ -8,8 +8,8 @@ I've decided to leave them as they are.
 
 
 + [The world is a comedy](the-world-is-a-comedy.html)  
-+ [The Disadvantage of Studying from Home](isadvantages-of-studying-from-home.html)  
-+ [Rural Computerization is Necessary](ural-computerization-is-necessary.html)  
++ [The Disadvantage of Studying from Home](disadvantages-of-studying-from-home.html)  
++ [Rural Computerization is Necessary](rural-computerization-is-necessary.html)  
 + [Youth today have no morals, no ethics. They worship only money.](youth-today.html)  
 + [Freedom of the Individual is Not a Myth](freedom-of-the-individual-is-a-myth.html)  
 + [The Importance of Teaching History in School](history.html)  
@@ -17,6 +17,6 @@ I've decided to leave them as they are.
 + [The Generation Gap](the-generation-gap.html)  
 + [The sun today really rises in the East.](the-sun-today-really-rises-in-the-east.html)  
 + [Freedom of the individual is a myth](freedom-of-the-individual-is-a-myth-against.html)  
-+ [Necessity is the mother of invention](ecessity-is-the-mother-of-invention.html)  
++ [Necessity is the mother of invention](necessity-is-the-mother-of-invention.html)  
 + [India Needs Statesmen, Not Politicians](india-needs-statesmen.html)  
 + [Television immobilizes the mind](television-immobilizes-the-mind.html)  

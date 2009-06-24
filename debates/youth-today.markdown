@@ -47,11 +47,11 @@ title:  Youth today have no morals, no ethics. They worship only money.
 
   Of course, it is essential that we examine not only the essence,
   but the fine print of the topic as well. The topic says very
-  clearly that today's youth have “no morals” and “no ethics”.
+  clearly that today's youth have "no morals" and "no ethics".
   Now, the common complaints against youngsters are that they are
   rowdy, rude, disrespectful and sometimes selfish and
   opportunistic. But in a very unbiased manner let us consider
-  whether all this is the same as being “immoral” or “unethical”.
+  whether all this is the same as being "immoral" or "unethical".
   Is shouting in class or arguing with the teacher the same as
   killing people for no justifiable cause? Is being highly
   competitive the same as being willing to kill your brother or
