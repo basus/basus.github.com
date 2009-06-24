@@ -8,3 +8,4 @@ This is my public wiki, hosted at [Github Pages](http://pages.github.com). These
 The sections currently being edited are listed below. Most of these probably have other pages under them.
 
 + [Programming languages Resources](/prog-lang-resources)
++ [Debates](/debates)
